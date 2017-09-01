@@ -1,0 +1,103 @@
+@media (max-width: 576px) {
+  nav .container{
+    width:100%;
+  }
+  .myp
+  {
+    font-size:2rem;
+  }
+}
+@media (min-width: 576px) {
+  .email-subscribe{
+    width:30rem;
+  }
+
+}
+@media (min-width: 768px) {
+  .email-subscribe{
+    width:40rem;
+  }
+  .vertical-text{
+    width:1px;
+    word-wrap: break-word;
+  }
+}
+@media (min-width: 576px) {
+.myp{
+  font-size:4rem;
+}
+}
+.hub
+{
+color:orange;
+padding:5px;
+border:6px solid orange;
+}
+.KIHicon
+{
+  color:orange;
+  padding:5px;
+  border:3px solid orange;
+}
+blockquote{
+  border-color: #121212 !important;
+}
+.trending-articles
+{
+  overflow:auto;
+  height:21rem;
+}
+.fa-facebook-official:hover {
+  color: #3B5998;
+}
+.fa-google-plus:hover {
+  color: #E61E1E;
+}
+.fa-quora:hover {
+  color: #C70009;
+}
+.fa-twitter:hover {
+  color: #00BBF4;
+}
+.fa-facebook-official {
+  color: black;
+}
+.fa-google-plus {
+  color: black;
+}
+.fa-quora {
+  color: black;
+}
+.fa-twitter {
+  color: black;
+}
+.footer
+{
+
+}
+.email-subscribe
+{
+
+  margin-left:auto;
+  margin-right:auto;
+}
+.subscribe-request
+{
+  font-family:Comic Sans MS;
+}
+.img-person
+{
+  border: 5px solid #000;
+  border-radius: 50%;
+  width:20rem;
+}
+.vertical-text
+{
+
+  font-size: 40px;
+
+}
+a:hover
+{
+  text-decoration: none;
+}
